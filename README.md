@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jckzif
-- 👀 I’m interested in app development and portfolio sites
-- 🌱 I’m currently learning css and swift
-- 💞️ I’m looking to collaborate on mappy
-- 📫 How to reach me jackzifchock.webflow.io
+- 👋 Hi, I’m jack
+- 👀 I’m interested in front end sites
+- 🌱 I’m currently learning php and js
+- 📫 How to reach me jackbo.art
 
 <!---
 jckzif/jckzif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
